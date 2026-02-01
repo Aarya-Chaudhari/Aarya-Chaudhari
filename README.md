@@ -1,29 +1,60 @@
-👋 Hello! Welcome to my GitHub profile!
+# 👋 Hello! Welcome to my GitHub Profile
 
-I am Aarya Chaudhari, a passionate Diploma in Computer Engineering student with a keen interest in exploring the world of software development, programming, and technology. My journey in computer engineering has allowed me to build a strong foundation in:
+## 👨‍💻 About Me
 
-🌐 Web Development
+Hi, I’m **Aarya Chaudhari**, a **Diploma in Computer Engineering** student who enjoys exploring software development, programming, and modern technologies. I’m driven by curiosity, consistency, and the satisfaction of building things that actually work.
 
-💻 Programming Languages (e.g., Python, Java, C++)
+I believe in learning by doing, improving step by step, and writing code that solves real problems.
 
-🛠️ Tools & Frameworks (mention a few you are familiar with, e.g., React, Node.js)
+---
 
-I am enthusiastic about:
+## 🧠 Skills & Technical Knowledge
 
-Building innovative projects
+### 🌐 Web Development
+- HTML, CSS, JavaScript  
+- Responsive UI design  
+- Basic frontend architecture  
 
-Contributing to open-source communities
+### 💻 Programming Languages
+- Python  
+- Java  
+- C++  
 
-Learning and growing in the ever-evolving tech landscape
+### 🛠️ Tools & Technologies
+- Git & GitHub  
+- React (basics)  
+- Node.js (basics)  
+- VS Code  
 
-🔍 What I'm currently working on:
+---
 
-https://github.com/Aarya-Chaudhari/Mindful-Productivity-Hub-
+## 🚀 What I’m Interested In
 
-https://github.com/Aarya-Chaudhari/QuickAid-First_Aid_Advisor_ChatBot
+- Software development and system design  
+- Web technologies and user-focused applications  
+- Open-source collaboration  
+- Learning new tools and frameworks  
 
-💡 What I love:
+---
 
-Solving real-world problems through code
+## 💡 How I Think & Work
 
-Collaborating on exciting projects
+- I enjoy breaking down complex problems into simple steps  
+- I prefer writing clean, readable, and maintainable code  
+- I value collaboration, feedback, and continuous improvement  
+
+---
+
+## 📊 GitHub Stats
+
+![Aarya's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Aarya-Chaudhari?theme=tokyonight)
+
+---
+
+## 🤝 Contribution Overview
+
+![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=Aarya-Chaudhari&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+---
+
+✨ *Thanks for visiting my profile. I’m always learning, building, and growing in the world of technology.*
