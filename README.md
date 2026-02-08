@@ -41,6 +41,7 @@ I believe in learning by doing, improving step by step, and writing code that so
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Aarya-Chaudhari?theme=tokyonight" alt="Aarya's GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Chaudhari&theme=transparent&hide_border"/> <br>
   <img src="https://github-contributor-stats.vercel.app/api?username=Aarya-Chaudhari&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" width="48%" />
 </p>
 
