@@ -81,8 +81,6 @@ A research-oriented AI system combining:
 
 Explored approaches including **BART, T5, Pegasus, content-based filtering, and collaborative filtering**.
 
-📄 **Research Paper:** [View Paper](YOUR_VIRTUAL_NEWS_PAPER_LINK)
-
 ---
 
 ### 🤖 Website-Grounded AI Chatbot
@@ -152,8 +150,6 @@ The work explores:
 * Responsible AI deployment
 
 The paper also draws on firsthand experience building a **multilingual RAG customer-service chatbot, Hinglish voice AI agent, and AI-powered idea validation platform**.
-
-📄 **Research Paper:** [Read Paper](YOUR_GENAI_PAPER_LINK)
 
 ---
 
