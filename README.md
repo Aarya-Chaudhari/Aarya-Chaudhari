@@ -254,7 +254,7 @@ These questions are currently shaping the direction of my AI/ML learning and res
 ## 🌐 Find Me
 
 * **GitHub:** [Aarya-Chaudhari](https://github.com/Aarya-Chaudhari)
-* **LinkedIn:** [Aarya Chaudhari]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aarya-chaudhari-759179343)
+* **LinkedIn:** [Aarya Chaudhari]([https://www.linkedin.com/in/aarya-chaudhari-759179343]
 * **Portfolio:** [Visit Portfolio](https://aarya-portfolio-alpha.vercel.app/)
 * **Email:** aaryachaudhari070@gmail.com
 
